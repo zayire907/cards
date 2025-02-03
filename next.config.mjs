@@ -2,7 +2,7 @@
 import withPWAInit from "@ducanh2912/next-pwa";
 const PWA_STATUS = "1"; // PWA_STATUS '1' is enabled, '0' is disabled
 const environment = {
-  BASE_URL: "https://axtro.risuvo.com/", // Base API URL
+  BASE_URL: "https://crypinvest.online/", // Base API URL
   PWA: PWA_STATUS,
 };
 
